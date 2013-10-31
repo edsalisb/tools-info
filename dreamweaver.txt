@@ -1,5 +1,5 @@
 Dreamweaver.
 A good way to produce html, css, javascript, etc
-and see it as you go. You can know what you are
-making and what it will look like. 
+and see it as you go. You can know what you are making 
+and what it will look like. 
 

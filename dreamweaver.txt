@@ -1,5 +1,3 @@
-Dreamweaver.
-A good way to produce html, css, javascript, etc
-and see it as you go. You can know what you are making 
-and what it will look like. 
-
+Dreamweaver is good to see what you are
+producing while you are writing the code
+for it. 
